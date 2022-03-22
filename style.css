@@ -20,19 +20,6 @@ body {
 
 }
 
-.text {
-  position: absolute;
-  right: 0;
-  width: 100%;
-  min-height: 100vh;
-  padding: 15px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  /* background: #111; */
-  z-index: 15;
-  color: #fff;
-}
 
 /* --- Navigation Menu ------------------------------ */
 
